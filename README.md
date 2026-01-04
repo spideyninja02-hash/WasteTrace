@@ -14,7 +14,7 @@
 ---
 
 ## 🛠 Tech Stack  
-- **Frontend:** React (Lovable.dev-generated UI)  
+- **Frontend:** React 
 - **Backend:** FastAPI (Python)  
 - **Database:** PostgreSQL  
 - **Services:**  
@@ -100,3 +100,4 @@ Frontend will start at → [http://localhost:3000](http://localhost:3000)
 - Shalvi Maheshwari  
 - Laukika Shinde  
 - Sarvesh Sapkal  
+
